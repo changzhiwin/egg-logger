@@ -22,7 +22,7 @@
 
 Egg logger.
 
-![diagram](diagram.png)
+![diagram](EggLogger-UML.png)
 
 Including two base class, `Logger` and `Transport`:
 
